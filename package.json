@@ -1,0 +1,9 @@
+{
+  "name": "dao-proposal-encoder",
+  "version": "1.0.0",
+  "description": "Encoding and simulation for Governor proposals",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
